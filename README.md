@@ -20,10 +20,6 @@ A console-based application built using ADO.NET to manage students and departmen
 - Parameterized queries
 - Data validation
 
-## 📸 Screenshots
-<img width="702" height="362" alt="Screenshot 2026-04-08 182018" src="https://github.com/user-attachments/assets/5a322f23-f425-4458-aac3-20481c498f69" />
-
-
 ## 🔗 How to Run
 1. Clone the repo
 2. Update connection string
