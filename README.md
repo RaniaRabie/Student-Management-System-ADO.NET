@@ -21,7 +21,8 @@ A console-based application built using ADO.NET to manage students and departmen
 - Data validation
 
 ## 📸 Screenshots
-(Add your screenshots here)
+<img width="702" height="362" alt="Screenshot 2026-04-08 182018" src="https://github.com/user-attachments/assets/5a322f23-f425-4458-aac3-20481c498f69" />
+
 
 ## 🔗 How to Run
 1. Clone the repo
